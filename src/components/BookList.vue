@@ -11,7 +11,6 @@
 <script>
 import BookItem from './BookItem';
 import BookForm from './BookForm';
-import BookForm from './BookForm.vue';
 export default {
     name: 'BookList',
     data() {
