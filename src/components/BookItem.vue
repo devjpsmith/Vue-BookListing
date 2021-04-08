@@ -4,14 +4,10 @@
 
 <script>
 export default {
-    data() {
-        return {
-            name: 'BookItem',
-            props: [
-                'book'
-            ]
-        };
-    }
+    name: 'BookItem',
+    props: [
+        'book'
+    ]
 }
 </script>
 
